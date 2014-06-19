@@ -5,7 +5,7 @@ layout: case
 splash: "http://placehold.it/1600x500"
 ---
 
-# hei hei
+# Erlend is here!
 
 ## mindre
 
