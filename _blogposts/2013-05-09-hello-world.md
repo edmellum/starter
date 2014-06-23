@@ -1,7 +1,7 @@
 ---
 published: false
 category: blog
-layout: case
+layout: project
 splash: "http://placehold.it/1600x500"
 ---
 
